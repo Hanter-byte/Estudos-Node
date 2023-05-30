@@ -1,2 +1,2 @@
 # Estudos-Node
-Pasta dedicada aos estudos de Node
+Pasta dedicada aos estudos de Node.
